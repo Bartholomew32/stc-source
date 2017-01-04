@@ -1,0 +1,9 @@
+Building stc
+
+See doc/readme-qt.rst for instructions on building stc QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of stc.
+
+See doc/build-*.txt for instructions on building stcd,
+the intended-for-services, no-graphical-interface, reference
+implementation of stc.
